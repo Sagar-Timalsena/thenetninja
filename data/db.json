@@ -1,0 +1,31 @@
+{
+    "blogs":[
+        {
+            "title":"Blog 1",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu tincidunt tincidunt, nisi nisl aliquam eros, eget egestas nisl nisi euismod erat. Sed euismod",
+            "author":"John Doe",
+            "id":1
+        },
+        {
+            "title":"Blog 2",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu tincidunt tincidunt, nisi nisl aliquam eros, eget egestas nisl nisi euismod erat. Sed euismod",
+            "author":"John Doe",
+            "id":2
+        },
+        {
+            "title":"Blog 3",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu tincidunt tincidunt, nisi nisl aliquam eros, eget egestas nisl nisi euismod erat. Sed euismod",
+            "author":"John Doe",
+            "id":3
+        }
+        ,
+        {
+            "title":"Blog 4",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu tincidunt tincidunt, nisi nisl aliquam eros, eget egestas nisl nisi euismod erat. Sed euismod",
+            "author":"John Doe",
+            "id":4
+        }
+
+    ]
+
+}
