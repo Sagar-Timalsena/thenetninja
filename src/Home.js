@@ -25,6 +25,9 @@ const Home = () => {
     </div>
   );
 }
+<p>
+  lorem
+</p>
 
 
 export default Home;
